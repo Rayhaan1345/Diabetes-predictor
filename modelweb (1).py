@@ -58,6 +58,6 @@ if st.button("press to run", type="primary"):
         st.info(preds)
 
 
-#st.title("Acknowledgements")
-#st.markdown("I would like to say a special thank you to my uncle, Dr. Shadab Khan for providing me with this wonderful opportunity, to learn and expand my knowledge of AI, Deep Learning and ML and always providing valuable feedback for my assignments and projects.")
+
+
 
