@@ -1,3 +1,7 @@
+---
+layout = default
+---
+<h6>
 from fastai import *
 import streamlit as st
 from fastbook import *
@@ -56,6 +60,7 @@ if st.button("press to run", type="primary"):
         test['Outcome'] = preds
         st.warning('ignore first outcome. Use the second one.')
         st.info(preds)
+</h6>
 
 
 
